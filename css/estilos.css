@@ -1,0 +1,7 @@
+body{
+    background:url(../Imagenes/eleikel.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    color: #ffffff;
+    background-size: cover;
+}

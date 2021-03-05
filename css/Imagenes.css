@@ -1,0 +1,12 @@
+div {
+    width: 100%;
+}
+img {
+    height: 100%;
+    width: auto;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+    box-shadow: 5px 5px 0px rgb(211, 82, 82);
+    border: 3px solid #1693db;
+}

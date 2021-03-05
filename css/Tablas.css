@@ -1,0 +1,18 @@
+table {
+    border:1px solid #000;
+    border-collapse:collapse;
+}
+
+table td {
+    border: 1px solid rgb(233, 4, 4);
+    padding: 20px;
+}
+
+table tr:hover {
+    background:rgb(63, 63, 63)
+}
+
+table td:hover {
+    background:#000;
+    color: rgb(57, 240, 11);
+}
